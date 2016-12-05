@@ -7,8 +7,7 @@
  * 4. Move all class(*.class) to folder nDasJoWo
  * 5. jar cvfm SignApk.jar MANIFEST.MF nDasJoWo\*.class
  * 6. java -jar SignApk.jar
- * . 
- *
+-
  
  #### Download ####
  - [SignApk.java](https://raw.githubusercontent.com/ndasjowo/SignApk/master/SignApk.java)

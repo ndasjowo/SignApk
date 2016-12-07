@@ -18,5 +18,5 @@ Released under the Apache 2.0 License (the same as Android's [SignApk.java](http
 
 ### Source and Referece ###
  * Source original https://github.com/android/platform_build/blob/master/tools/signapk/SignApk.java
- * Referece: https://github.com/appium/sign/
+ * Reference: https://github.com/appium/sign/
  

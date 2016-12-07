@@ -3,9 +3,9 @@
  * How to Compile:
  * 1. javac SignApk.java
  * 2. Create MANIFEST.MF - ( echo Main-Class: nDasJoWo.SignApk >MANIFEST.MF )
- * 3. Create folder nDasJoWo
- * 4. Move all class(*.class) to folder nDasJoWo
- * 5. jar cvfm SignApk.jar MANIFEST.MF nDasJoWo\*.class
+ * 3. Create folder nDasJoWo\signapk
+ * 4. Move all class(*.class) to folder nDasJoWo\signapk
+ * 5. jar cvfm SignApk.jar MANIFEST.MF nDasJoWo\signapk\*.class
  * 6. java -jar SignApk.jar
 
  

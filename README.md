@@ -6,7 +6,7 @@
  * 3. Create folder nDasJoWo\signapk
  * 4. Move all class(*.class) to folder nDasJoWo\signapk
  * 5. jar cvfm SignApk.jar MANIFEST.MF nDasJoWo\signapk\*.class
- * 6. java -jar SignApk.jar
+ * 6. java -jar SignApk.jar or java -jar SignApk.jar -w
 
  
 ### Download ###

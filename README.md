@@ -10,8 +10,8 @@
 
  
 ### Download ###
- - [SignApk.java](https://raw.githubusercontent.com/ndasjowo/SignApk/master/SignApk.java) ( Source )
- - [SignApk.jar](https://raw.githubusercontent.com/ndasjowo/SignApk/master/SignApk.jar)   ( Execute )
+ - [SignApk.java](https://raw.githubusercontent.com/ndasjowo/SignApk/master/SignApk.java) ( `Source` )
+ - [SignApk.jar](https://raw.githubusercontent.com/ndasjowo/SignApk/master/SignApk.jar)   ( `Execute` )
  
 ### License ###
 Released under the Apache 2.0 License (the same as Android's [SignApk.java](https://github.com/android/platform_build/blob/master/tools/signapk/SignApk.java)).
